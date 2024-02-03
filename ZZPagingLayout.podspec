@@ -2,10 +2,10 @@ Pod::Spec.new do |s|
   s.name             = 'ZZPagingLayout'
   s.version          = '0.0.1'
   s.summary          = 'A short description of ZZPagingLayout.'
-  s.homepage         = 'https://github.com/Ramsey/ZZPagingLayout'
+  s.homepage         = 'https://github.com/MartinChristopher/ZZPagingLayout'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.authors          = { "Ramsey" => "1264137205@gmail.com" }
-  s.source           = { :git => 'https://github.com/Ramsey/ZZPagingLayout.git', :tag => s.version.to_s }
+  s.authors          = { "MartinChristopher" => "519483040@gmail.com" }
+  s.source           = { :git => 'https://github.com/MartinChristopher/ZZPagingLayout.git', :tag => s.version.to_s }
   
   s.requires_arc = true
   s.swift_version = '5.0'
