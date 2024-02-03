@@ -1,0 +1,16 @@
+PODS:
+  - ZZPagingLayout (0.0.1)
+
+DEPENDENCIES:
+  - ZZPagingLayout (from `../`)
+
+EXTERNAL SOURCES:
+  ZZPagingLayout:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ZZPagingLayout: 1fef22466aa7626cef478153acf5cfb9e91930a9
+
+PODFILE CHECKSUM: a635bd326e978b58d2f9b284d83e957916aa3d90
+
+COCOAPODS: 1.14.3
