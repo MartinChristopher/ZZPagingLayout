@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'ZZPagingLayout'
-  s.version          = '0.0.1'
+  s.version          = '0.0.3'
   s.summary          = 'A short description of ZZPagingLayout.'
   s.homepage         = 'https://github.com/MartinChristopher/ZZPagingLayout'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
